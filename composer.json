@@ -1,0 +1,10 @@
+{
+    "name": "wwerther/auto-file-sort",
+    "authors": [
+        {
+            "name": "Walter Werther",
+            "email": "github@werther-web.de"
+        }
+    ],
+    "require": {}
+}
