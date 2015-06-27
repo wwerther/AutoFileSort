@@ -6,5 +6,24 @@
             "email": "github@werther-web.de"
         }
     ],
-    "require": {}
+    "require": {},
+    "authors": [
+        {
+            "name": "Walter Werther",
+            "email": "walter@wwerther.de"
+        }
+    ],
+
+    "config": {
+        "vendor-dir": "vendor"
+    },
+
+    "autoload": {
+        "psr-4": {
+                "wwerther\\": "lib/wwerther" 
+                },
+        "files":                                                                                                                                                                                                                 
+                []                                                                                                                                                                                                
+                                                                                                                                                                                                                                 
+    }                                                                                                                                                                                                                           
 }
